@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Creditos extras en el feed
-Plugin URI: http://www.maestrosdelweb.com/editorial/pugin-wordpress-muchos-autores-creditos-feed/
+Plugin URI: http://www.maestrosdelweb.com/editorial/plugin-wordpress-muchos-autores-creditos-feed/
 Description: Agrega creditos adicionales para el autor, al final de cada post en el feed del blog
 Version: 0.1
 Author: Javier Aroche
