@@ -24,7 +24,7 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
-/* Si ya se est· usando el plugin de Author Image (http://wordpress.org/extend/plugins/sem-author-image/), se usaran esos avatars*/
+/* Si ya se est√° usando el plugin de Author Image (http://wordpress.org/extend/plugins/sem-author-image/), se usaran esos avatars*/
 
 $default  = ''; // URL a la imagen a mostar en caso de no encontrar una con gravatar. En blanco usa la de Gravatar.
 
