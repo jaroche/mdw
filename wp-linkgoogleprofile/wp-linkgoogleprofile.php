@@ -37,7 +37,7 @@ function profilelink()
 		$parts = explode( '@', $gtalk, 2);
 	
 		if ( isset( $parts[0] ) ): ?>
-		<link rel="me" type="text/html" href="http://www.google.com/profiles/<?=$parts[0]?>"/>
+		<link rel="me" type="text/html" href="http://www.google.com/profiles/<?=esc_attr($parts[0])?>"/>
 		<? endif;
 	}
 }
